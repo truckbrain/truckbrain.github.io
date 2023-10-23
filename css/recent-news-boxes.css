@@ -1,12 +1,11 @@
 .recentNews {
-    background-color: 	rgb(173, 216, 230);
+    background-color: #ADD8E6;
     font-family: system-ui;
 }
 .recentNews .news-title {
     text-align:center;
     padding-top:30px;
     padding-bottom:30px;
-    /*font-family: 'nimbus-sans-condensed', sans-serif;*/
     font-size:40px;
     color: #fff;
 }
