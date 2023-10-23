@@ -1,13 +1,13 @@
 .recentNews {
-    background-color: rgb(20, 117, 175)  
+    background-color: 	rgb(173, 216, 230)
+    font-family: system-ui;
 }
 .recentNews .news-title {
     text-align:center;
     padding-top:30px;
     padding-bottom:30px;
-    font-family: 'nimbus-sans-condensed', sans-serif;
-    font-size:55px;
-    font-weight:bold;
+    /*font-family: 'nimbus-sans-condensed', sans-serif;*/
+    font-size:40px;
     color: #fff;
 }
 .recentNews .row {
@@ -16,9 +16,7 @@
     justify-content: space-between;
     margin-bottom: 30px;
 }
-.recentNews .ct-blog {
-    margin-bottom: 30px;
-}
+
 .ct-blog .inner {
     background-color: #FFF;
     padding: 10px;
