@@ -2,6 +2,8 @@
     background-color: #ADD8E6;
     font-family: system-ui;
     padding-top:30px;
+    max-width: 80%;
+    margin: 0 auto;
 }
 
 .recentNews .news-title {
