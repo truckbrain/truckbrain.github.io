@@ -1433,7 +1433,7 @@ img {
 }
 
 #aboutUs {
-    max-width: 1200px; /* Adjust the maximum width as needed */
+    max-width: 100%; /* Adjust the maximum width as needed */
     margin: 0 auto; /* Center the container */
     padding: 20px; /* Add padding for spacing */
 }
