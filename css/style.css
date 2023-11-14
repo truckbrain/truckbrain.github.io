@@ -178,7 +178,8 @@ aboutUs {
 }
 
 .navbar-inverse .navbar-nav > li > a {
-    color: #222;
+    /*color: #222; */
+     color:#F2F3F5;
 }
 
 .navStyle {
