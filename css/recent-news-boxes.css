@@ -48,7 +48,7 @@
     border-right: 1px solid #95A5A6;
     display: table-cell;
     font-family: "Lato", sans-serif;
-    padding: 0px 18px 0px 15px;
+    padding: 0px 18px 0px;
     text-align: center;
 }
 .ct-blog-content .ct-blog-date span {
